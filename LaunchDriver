@@ -1,0 +1,4 @@
+System.setproperty(""."path");
+WebDriver driver = new ChromeDriver;
+driver.get("link ");
+driver.manage().Maximize();
